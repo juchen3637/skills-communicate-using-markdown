@@ -17,3 +17,7 @@ var myVar = "Hello, world!";
 ``` python
 myList = [1, 2, 3, 4, 5]
 ```
+
+- [X] Finish part 1
+- [ ] Finish part 2
+- [ ] Finish part 3
